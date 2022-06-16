@@ -31,7 +31,7 @@
 	<iomanip>
 	<cstdlib>
 
-1655406908 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\catalogos.cpp
+1655413675 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\catalogos.cpp
 	"Catalogos.h"
 	"Paciente.h"
 	"Examen.h"
@@ -53,7 +53,7 @@
 
 1655404002 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\procesos.h
 
-1655412314 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\empleados.cpp
+1655413675 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\empleados.cpp
 	"Empleados.h"
 	"datosEmpleados.h"
 	<iostream>
@@ -63,24 +63,40 @@
 	<iomanip>
 	<cstdlib>
 
-1655406424 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\empleados.h
+1655413675 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\empleados.h
 
-1655406478 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\examen.cpp
+1655413675 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\examen.cpp
 	"Examen.h"
 
-1655406478 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\examen.h
+1655413675 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\examen.h
 
-1655406454 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\paciente.cpp
+1655415909 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\paciente.cpp
 	"Paciente.h"
+	"datosPacientes.h"
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
 
-1655406454 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\paciente.h
+1655413675 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\paciente.h
 
-1655409258 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\datosempleados.cpp
+1655413675 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\datosempleados.cpp
 	"datosEmpleados.h"
 	<cstring>
 	<iostream>
 
-1655409138 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\datosempleados.h
+1655413675 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\datosempleados.h
+	<cstring>
+	<iostream>
+
+1655416181 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\datospacientes.cpp
+	"datosPacientes.h"
+	<cstring>
+	<iostream>
+
+1655416181 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\datospacientes.h
 	<cstring>
 	<iostream>
 
