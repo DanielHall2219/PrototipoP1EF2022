@@ -36,15 +36,23 @@
 		</Compiler>
 		<Unit filename="include/Catalogos.h" />
 		<Unit filename="include/DatosUsuario.h" />
+		<Unit filename="include/Empleados.h" />
+		<Unit filename="include/Examen.h" />
 		<Unit filename="include/Informes.h" />
+		<Unit filename="include/Paciente.h" />
 		<Unit filename="include/Procesos.h" />
 		<Unit filename="include/Usuarios.h" />
+		<Unit filename="include/datosEmpleados.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Catalogos.cpp" />
 		<Unit filename="src/DatosUsuario.cpp" />
+		<Unit filename="src/Empleados.cpp" />
+		<Unit filename="src/Examen.cpp" />
 		<Unit filename="src/Informes.cpp" />
+		<Unit filename="src/Paciente.cpp" />
 		<Unit filename="src/Procesos.cpp" />
 		<Unit filename="src/Usuarios.cpp" />
+		<Unit filename="src/datosEmpleados.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
