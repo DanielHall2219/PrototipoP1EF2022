@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1655404722 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\main.cpp
+	<iostream>
+	"Catalogos.h"
+	"Procesos.h"
+	"Informes.h"
+	"Usuarios.h"
+	<ctime>
+	<vector>
+
+1655403119 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\datosusuario.cpp
+	"DatosUsuario.h"
+	"Usuarios.h"
+	<cstring>
+	<iostream>
+
+1655403119 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\datosusuario.h
+	<iostream>
+
+1655402731 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\usuarios.h
+
+1655403119 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\usuarios.cpp
+	"Usuarios.h"
+	"DatosUsuario.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655403685 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\catalogos.cpp
+	"Catalogos.h"
+
+1655403685 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\catalogos.h
+
+1655404118 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\informes.cpp
+	"Informes.h"
+
+1655404118 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\informes.h
+
+1655404002 source:c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\src\procesos.cpp
+	"Procesos.h"
+
+1655404002 c:\users\halld\proyectos\prototipop1ef2022\prototipop1ef2022\include\procesos.h
+
